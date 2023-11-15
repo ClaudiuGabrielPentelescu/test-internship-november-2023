@@ -1,0 +1,24 @@
+.header {
+  height: 100px;
+  background-color: #347ab4;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo {
+  height: 60px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.nav {
+  display: flex;
+  align-items: center;
+  margin-right: 400 px;
+}
+.nav a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 0 15px;
+}
